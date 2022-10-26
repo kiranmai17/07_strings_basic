@@ -1,17 +1,11 @@
 '''
 DATE=26th oct 2022
 DAY= wednesday
-TOPIC= strings 
+TOPIC= data types
 AUTHOR=Kiranmai
 '''
-print(type('kiranmai'))
-print(type('3'))
-print(type('0.235'))
-a=4
-print(str(a )+'+b')
-print(str(a))
-print('')      #empty
-print("")
-print('kiranmai\n' )
-print('stella')
-print('stella','kiran')
+print(type(9886))
+print(type(0.25458))
+
+print(bool (4>6))
+print(bool(7>3))
